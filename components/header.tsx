@@ -6,7 +6,6 @@ import { Button } from '@/components/ui/button'
 import React from 'react'
 import { cn } from '@/lib/utils'
 import { ThemeToggleButton } from '@/components/ThemeToggleButton'
-import Features from '@/components/features-3'
 
 const menuItems = [
     { name: 'Features', href: '/features'},
